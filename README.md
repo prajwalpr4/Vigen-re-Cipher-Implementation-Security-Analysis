@@ -144,7 +144,7 @@ That's it — there are no external dependencies.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/vigenere-cipher.git
+git clone https://github.com/prajwalpr4/Vigen-re-Cipher-Implementation-Security-Analysis.git
 
 # 2. Navigate to the project directory
 cd vigenere-cipher
@@ -359,7 +359,7 @@ for details.
 
 ## 📌 THREE THINGS TO DO BEFORE UPLOADING
 
-1. **Replace `YOUR_USERNAME`** in the Installation section with your actual GitHub username, and `vigenere-cipher` with your actual repo name.
+1. **Use the actual repository URL** in the Installation section so the clone command matches this project.
 
 2. **Change the license name if needed** — if you don't want to bother creating a LICENSE file, just delete the License section and the acknowledgments reference to it. (Or if you keep it, GitHub has a "Add license" button when creating a repo — pick MIT and the file gets made automatically.)
 
